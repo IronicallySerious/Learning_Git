@@ -1,1 +1,5 @@
+HEAD
 hello
+efbvfeh
+new_branch
+Unexpected newline
